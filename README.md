@@ -1,8 +1,8 @@
 # Mohammad Honarvar
 
-I design and build web landing pages and user interfaces.
+I care about how a page feels the first time someone lands on it — the type, the space, the path the eye takes.
 
-Client work stays in private repositories. This profile is the public side.
+Most of my work is landing pages and interfaces for real clients. That work stays private. Here is the public side: who I am, and a site you can actually open.
 
 ## Public
 
@@ -10,8 +10,8 @@ Client work stays in private repositories. This profile is the public side.
 - GitHub: [github.com/MH-Honarvar](https://github.com/MH-Honarvar)
 - Telegram: [@MH759](https://t.me/MH759)
 
-## Focus
+## What I like building
 
-- Static and marketing landing pages
-- Clear layout, typography, and responsive UI
+- Marketing and product landing pages
+- Layout, typography, and responsive UI
 - HTML, CSS, and JavaScript
