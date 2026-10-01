@@ -1,27 +1,21 @@
 # Mohammad Honarvar
 
-I care about how a page feels the first time someone lands on it — the type, the space, the path the eye takes.
+I design how a page feels the first time someone lands on it: the type, the space, and the path the eye takes.
 
-Most of my work is landing pages and interfaces for real clients. That work stays private. Here is the public side: who I am, and a site you can actually open.
+I build marketing and product landing pages, plus the interface around them. Client work stays in private repositories. This profile is the public side.
 
-## Public
+## Open
 
 - Site: [mh-honarvar.github.io](https://mh-honarvar.github.io/)
 - GitHub: [github.com/MH-Honarvar](https://github.com/MH-Honarvar)
 - Telegram: [@MH759](https://t.me/MH759)
 
-## What I like building
+## What I ship
 
-- Marketing and product landing pages
+- Landing pages with a clear first screen and a single next step
 - Layout, typography, and responsive UI
-- HTML, CSS, and JavaScript
+- HTML, CSS, and JavaScript, written so the page stays fast
 
-## Private operations software
+## Working together
 
-Daydesk is a private daily desk I built to replace a spreadsheet workflow. The repository stays private.
-
-- A task desk for a working team
-- A Jalali calendar and business-hours rules
-- Postgres backups, run with Docker
-
-Stack: Node.js, Express, PostgreSQL, Docker.
+If you need a page that feels considered before it tries to convert, message me on Telegram. I read every note.
