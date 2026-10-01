@@ -15,3 +15,13 @@ Most of my work is landing pages and interfaces for real clients. That work stay
 - Marketing and product landing pages
 - Layout, typography, and responsive UI
 - HTML, CSS, and JavaScript
+
+## Private operations software
+
+Daydesk is a private daily desk I built to replace a spreadsheet workflow. The repository stays private.
+
+- A task desk for a working team
+- A Jalali calendar and business-hours rules
+- Postgres backups, run with Docker
+
+Stack: Node.js, Express, PostgreSQL, Docker.
