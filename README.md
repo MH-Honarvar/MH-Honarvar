@@ -1,21 +1,19 @@
 # Mohammad Honarvar
 
-I design how a page feels the first time someone lands on it: the type, the space, and the path the eye takes.
+لندینگ دوزبانه می‌سازم: type، فاصله، و مسیری که چشم همان بار اول روی صفحه طی می‌کند.
 
-I build marketing and product landing pages, plus the interface around them. Client work stays in private repositories. This profile is the public side.
+کار مشتری در ریپوی خصوصی می‌ماند. اینجا سمت عمومی کار است.
 
-## Open
+## Featured Projects
 
-- Site: [mh-honarvar.github.io](https://mh-honarvar.github.io/)
-- GitHub: [github.com/MH-Honarvar](https://github.com/MH-Honarvar)
-- Telegram: [@MH759](https://t.me/MH759)
+- [mh-honarvar.github.io](https://mh-honarvar.github.io/) — سایت شخصی با Astro، TypeScript و Three.js؛ یک لندینگ دوزبانه با صفحهٔ اول روشن و یک قدم بعدی.
 
-## What I ship
+## What I'm working on
 
-- Landing pages with a clear first screen and a single next step
-- Layout, typography, and responsive UI
-- HTML, CSS, and JavaScript, written so the page stays fast
+صفحهٔ بازاریابی و محصول: layout، typography، و UI که روی موبایل هم همان حس را نگه دارد.
 
-## Working together
+## Connect
 
-If you need a page that feels considered before it tries to convert, message me on Telegram. I read every note.
+- سایت: [mh-honarvar.github.io](https://mh-honarvar.github.io/)
+- گیت‌هاب: [github.com/MH-Honarvar](https://github.com/MH-Honarvar)
+- تلگرام: [@MH759](https://t.me/MH759)
