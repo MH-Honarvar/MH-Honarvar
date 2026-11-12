@@ -1,8 +1,17 @@
 # Mohammad Honarvar
 
-I design bilingual landing pages and the interface around them.
+I design bilingual landing pages and the interface around them. فارسی و English.
 
-https://mh-honarvar.github.io/
-https://t.me/MH759
+## Stack
 
-کارکیا ترابر — لندینگ لجستیک، فارسی و English و روسی. https://karkiatarabar.com/landing/
+HTML, CSS, JavaScript, Astro, TypeScript, Three.js
+
+## Work
+
+- [mh-honarvar.github.io](https://mh-honarvar.github.io/) — سایت خودم، Astro و Three.js
+- [کارکیا ترابر](https://karkiatarabar.com/landing/) — لندینگ لجستیک، فارسی و English و روسی
+
+## Links
+
+- [سایت](https://mh-honarvar.github.io/)
+- [تلگرام](https://t.me/MH759)
